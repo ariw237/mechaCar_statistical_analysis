@@ -1,5 +1,5 @@
 # mechaCar_statistical_analysis
-# mechaCar_statistical_analysis
+
 ## Overview  
 Given a hypothetical dataset of a car being produced at a car manufacturing facility we are analyzing the production data to gain insight into improving the performance of this car. The dataset contains specs from 50 prototypes of this car and metrics for each car such as vehicle length, vehicle weight, spoiler angle, all wheel drive status, and ground clearance. One goal is to determine how vehicle performance is impacted by these specs in order to improve production. In addition we also are given suspension coil data for the vehicles with data on psi pressures and manufacturing lot numbers whose metrics also affect production. 
 ## Linear Regression to Predict MPG  
